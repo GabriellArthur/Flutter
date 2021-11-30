@@ -1,0 +1,14 @@
+Name project: Android/app/build.gradle
+
+Android/app/build.gradle: apply plugin
+Android/app: google-services.json
+Android/build.gradle: classpath
+
+pubspac.yaml:
+
+- firebase_auth
+- firebase_core
+- provider
+
+
+	

@@ -1,0 +1,14 @@
+Step 1: Stateless Widget (stless)
+Step 2: MaterialApp
+Step 3: Custom Themes
+Step 4: Creating our Home Class
+Step 5: Passing Data
+Step 6: The Scaffold Widget
+Step 7: Hot Restart vs Hot Reload
+Step 8: Creating Widgets
+Step 10: Creating Buttons
+Step 11: Statefull Widget
+Step 12: Private Varibles (_counter(private))
+Step 13: Creating Methods
+Step 14: Using setState
+Step 15: Updating the BgColor
